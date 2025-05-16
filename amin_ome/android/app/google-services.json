@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "262637018847",
+    "project_id": "amin-bank-app",
+    "storage_bucket": "amin-bank-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262637018847:android:30684b1e57460e8f98536a",
+        "android_client_info": {
+          "package_name": "com.banklaod.aminbank"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbKFzbHgNOAz-kxj3bjBvCNqHgRPHNT6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
