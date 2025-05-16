@@ -1,0 +1,18 @@
+name: amin_final
+description: Amin Bank - Flutter + Firebase
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^2.30.0
+  firebase_auth: ^4.19.0
+  cloud_firestore: ^4.15.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/logo/
